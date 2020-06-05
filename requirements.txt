@@ -7,7 +7,7 @@ celery==4.2.1
 certifi==2019.3.9
 chardet==3.0.4
 defusedxml==0.5.0
-Django==2.0
+Django==2.2.13
 django-allauth==0.39.1
 django-phonenumber-field==2.2.0
 factory-boy==2.11.1
